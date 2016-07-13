@@ -171,7 +171,16 @@ TODO:
 
 
 
-----Stefnos updated version---
+
+
+
+
+
+
+
+
+
+----Stefano's updated version---
 
 Ansible Playbook for OpenStack Deployments
 
